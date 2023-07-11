@@ -3,20 +3,30 @@ package com.naveenautomation.DemoProject.base;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
+import java.lang.System.Logger;
 import java.util.Properties;
 import java.util.concurrent.TimeUnit;
 
+import org.apache.log4j.BasicConfigurator;
+import org.apache.log4j.Level;
+import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.support.events.EventFiringWebDriver;
+import org.openqa.selenium.support.events.WebDriverEventListener;
+import org.testng.annotations.BeforeClass;
+
+import com.naveenautomation.DemoProject.Listerners.WedDriverEvents;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class BaseClass {
 
 	public static WebDriver wd;
-
-	Properties prop;
-
-	FileInputStream fileInputStream;
+	private Properties prop;
+	private FileInputStream fileInputStream;
+	public static org.apache.log4j.Logger logger;
+	public WedDriverEvents events;
+	public EventFiringWebDriver eDriver;
 
 	public BaseClass() {
 
@@ -38,10 +48,21 @@ public class BaseClass {
 
 	}
 
+	@BeforeClass
+	public void setUpLogger() {
+		logger = org.apache.log4j.Logger.getLogger(BaseClass.class);
+		PropertyConfigurator.configure("log4j.properties");
+		BasicConfigurator.configure();
+		logger.setLevel(Level.ALL);
+	}
+
 	public void initialisation() {
-		String browserName = prop.getProperty("browser");
+		String browserName = System.getProperty("browser") != null ? System.getProperty("browser")
+				: prop.getProperty("browser");
+
+		// String browserName = prop.getProperty("browser");
 		switch (browserName) {
-		case "chrome":
+		case "Chrome":
 			wd = WebDriverManager.chromedriver().create();
 			break;
 		case "Edge":
@@ -49,11 +70,16 @@ public class BaseClass {
 			break;
 		case "Firefox":
 			wd = WebDriverManager.firefoxdriver().create();
-			break;
+			break; 
 		default:
 			System.out.println("Invalid Browser");
 			break;
 		}
+
+		eDriver = new EventFiringWebDriver(wd);
+		events = new WedDriverEvents();
+		eDriver.register(events);
+		wd = eDriver;
 
 		wd.get(prop.getProperty("URL"));
 		wd.manage().timeouts().implicitlyWait(Long.parseLong(prop.getProperty("Implicit_wait")), TimeUnit.SECONDS);

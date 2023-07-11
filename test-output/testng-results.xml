@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-11T16:17:39 EDT" name="Default suite" finished-at="2023-07-11T16:17:46 EDT" duration-ms="7189">
+    <groups>
+    </groups>
+    <test started-at="2023-07-11T16:17:39 EDT" name="Default test" finished-at="2023-07-11T16:17:46 EDT" duration-ms="7189">
+      <class name="com.naveenAutomation.FrameworkDemo.AccountLoginTest">
+        <test-method is-config="true" signature="setUpLogger()[pri:0, instance:com.naveenAutomation.FrameworkDemo.AccountLoginTest@73700b80]" started-at="2023-07-11T16:17:39 EDT" name="setUpLogger" finished-at="2023-07-11T16:17:39 EDT" duration-ms="98" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpLogger -->
+        <test-method is-config="true" signature="setUP()[pri:0, instance:com.naveenAutomation.FrameworkDemo.AccountLoginTest@73700b80]" started-at="2023-07-11T16:17:39 EDT" name="setUP" finished-at="2023-07-11T16:17:45 EDT" duration-ms="5220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method signature="validateLoginUsingValidCredentials()[pri:0, instance:com.naveenAutomation.FrameworkDemo.AccountLoginTest@73700b80]" started-at="2023-07-11T16:17:45 EDT" name="validateLoginUsingValidCredentials" finished-at="2023-07-11T16:17:46 EDT" duration-ms="1824" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginUsingValidCredentials -->
+      </class> <!-- com.naveenAutomation.FrameworkDemo.AccountLoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
