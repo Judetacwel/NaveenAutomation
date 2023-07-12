@@ -59,7 +59,7 @@ public class BaseClass {
 	public void initialisation() {
 		
 		
-		String browserName = System.getProperty("BrowserName") ;
+		String browserName = System.getProperty("BrowserName")!=null?  System.getProperty("BrowserName"): prop.getProperty("browser");
 
 		 //String browserName = prop.getProperty("browser");
 		switch (browserName) {
