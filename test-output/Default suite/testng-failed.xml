@@ -5,8 +5,9 @@
     <classes>
       <class name="com.naveenAutomation.FrameworkDemo.AccountLoginTest">
         <methods>
+          <include name="validateLoginUsingValidCredentials"/>
+          <include name="setUpLogger"/>
           <include name="setUP"/>
-          <include name="validateLoginUsingInvalidVredentials"/>
         </methods>
       </class> <!-- com.naveenAutomation.FrameworkDemo.AccountLoginTest -->
     </classes>

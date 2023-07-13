@@ -89,3 +89,514 @@
 2023-07-11 17:11:42 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
 2023-07-11 17:11:42 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
 2023-07-11 17:11:42 INFO  BaseClass:104 - Clicked on :[[FirefoxDriver: firefox on WINDOWS (43c92887-6be8-4704-97bc-7827afbb2051)] -> css selector: ul.dropdown-menu li:nth-of-type(2) a]
+2023-07-11 17:35:27 INFO  BaseClass:39 - Navigating to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-11 17:35:30 INFO  BaseClass:44 - Navigated to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-11 17:35:30 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-11 17:35:30 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-11 17:35:30 INFO  BaseClass:104 - Clicked on :[[FirefoxDriver: firefox on WINDOWS (dd93bc4c-e246-4b4b-8b57-e3d9a3f9d42f)] -> css selector: ul.list-inline>li:nth-of-type(2) a]
+2023-07-11 17:35:30 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-11 17:35:30 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-11 17:35:31 INFO  BaseClass:104 - Clicked on :[[FirefoxDriver: firefox on WINDOWS (dd93bc4c-e246-4b4b-8b57-e3d9a3f9d42f)] -> css selector: ul.dropdown-menu li:nth-of-type(2) a]
+2023-07-11 17:35:31 INFO  BaseClass:86 - Finding Element  :By.id: input-email
+2023-07-11 17:35:31 INFO  BaseClass:92 - Found Element  :By.id: input-email
+2023-07-11 17:35:31 INFO  BaseClass:86 - Finding Element  :By.id: input-password
+2023-07-11 17:35:31 INFO  BaseClass:92 - Found Element  :By.id: input-password
+2023-07-11 17:35:31 INFO  BaseClass:86 - Finding Element  :By.cssSelector: input[value='Login']
+2023-07-11 17:35:31 INFO  BaseClass:92 - Found Element  :By.cssSelector: input[value='Login']
+2023-07-11 17:35:32 INFO  BaseClass:104 - Clicked on :[[FirefoxDriver: firefox on WINDOWS (dd93bc4c-e246-4b4b-8b57-e3d9a3f9d42f)] -> css selector: input[value='Login']]
+2023-07-11 17:35:35 INFO  BaseClass:39 - Navigating to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-11 17:35:38 INFO  BaseClass:44 - Navigated to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-11 17:35:38 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-11 17:35:38 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-11 17:35:38 INFO  BaseClass:104 - Clicked on :[[FirefoxDriver: firefox on WINDOWS (5e4c5137-d43e-4ce2-be43-8d435bd1bf5e)] -> css selector: ul.list-inline>li:nth-of-type(2) a]
+2023-07-11 17:35:38 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-11 17:35:38 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-11 17:35:39 INFO  BaseClass:104 - Clicked on :[[FirefoxDriver: firefox on WINDOWS (5e4c5137-d43e-4ce2-be43-8d435bd1bf5e)] -> css selector: ul.dropdown-menu li:nth-of-type(2) a]
+2023-07-11 17:35:39 INFO  BaseClass:86 - Finding Element  :By.id: input-email
+2023-07-11 17:35:39 INFO  BaseClass:92 - Found Element  :By.id: input-email
+2023-07-11 17:35:39 INFO  BaseClass:86 - Finding Element  :By.id: input-password
+2023-07-11 17:35:39 INFO  BaseClass:92 - Found Element  :By.id: input-password
+2023-07-11 17:35:39 INFO  BaseClass:86 - Finding Element  :By.cssSelector: input[value='Login']
+2023-07-11 17:35:39 INFO  BaseClass:92 - Found Element  :By.cssSelector: input[value='Login']
+2023-07-11 17:35:40 INFO  BaseClass:104 - Clicked on :[[FirefoxDriver: firefox on WINDOWS (5e4c5137-d43e-4ce2-be43-8d435bd1bf5e)] -> css selector: input[value='Login']]
+2023-07-11 17:35:43 INFO  BaseClass:39 - Navigating to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-11 17:35:45 INFO  BaseClass:44 - Navigated to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-11 17:35:45 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-11 17:35:45 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-11 17:35:46 INFO  BaseClass:104 - Clicked on :[[FirefoxDriver: firefox on WINDOWS (036f0d8d-ff95-48b4-a494-273763fb522a)] -> css selector: ul.list-inline>li:nth-of-type(2) a]
+2023-07-11 17:35:46 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-11 17:35:46 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-11 17:35:46 INFO  BaseClass:104 - Clicked on :[[FirefoxDriver: firefox on WINDOWS (036f0d8d-ff95-48b4-a494-273763fb522a)] -> css selector: ul.dropdown-menu li:nth-of-type(2) a]
+2023-07-11 18:34:53 INFO  BaseClass:39 - Navigating to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-11 18:34:56 INFO  BaseClass:44 - Navigated to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-11 18:34:56 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-11 18:34:56 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-11 18:34:56 INFO  BaseClass:104 - Clicked on :[[EdgeDriver: msedge on WINDOWS (c339d47ef0b7819e3aaa1176a55fcc81)] -> css selector: ul.list-inline>li:nth-of-type(2) a]
+2023-07-11 18:34:56 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-11 18:34:56 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-11 18:34:57 INFO  BaseClass:104 - Clicked on :[[EdgeDriver: msedge on WINDOWS (c339d47ef0b7819e3aaa1176a55fcc81)] -> css selector: ul.dropdown-menu li:nth-of-type(2) a]
+2023-07-11 18:34:57 INFO  BaseClass:86 - Finding Element  :By.id: input-email
+2023-07-11 18:34:57 INFO  BaseClass:92 - Found Element  :By.id: input-email
+2023-07-11 18:34:57 INFO  BaseClass:86 - Finding Element  :By.id: input-password
+2023-07-11 18:34:57 INFO  BaseClass:92 - Found Element  :By.id: input-password
+2023-07-11 18:34:57 INFO  BaseClass:86 - Finding Element  :By.cssSelector: input[value='Login']
+2023-07-11 18:34:57 INFO  BaseClass:92 - Found Element  :By.cssSelector: input[value='Login']
+2023-07-11 18:34:58 INFO  BaseClass:104 - Clicked on :[[EdgeDriver: msedge on WINDOWS (c339d47ef0b7819e3aaa1176a55fcc81)] -> css selector: input[value='Login']]
+2023-07-11 18:35:11 INFO  BaseClass:39 - Navigating to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-11 18:35:14 INFO  BaseClass:44 - Navigated to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-11 18:35:15 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-11 18:35:15 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-11 18:35:15 INFO  BaseClass:104 - Clicked on :[[EdgeDriver: msedge on WINDOWS (6e17d06a270acdc4b6287df22745bec1)] -> css selector: ul.list-inline>li:nth-of-type(2) a]
+2023-07-11 18:35:15 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-11 18:35:15 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-11 18:35:15 INFO  BaseClass:104 - Clicked on :[[EdgeDriver: msedge on WINDOWS (6e17d06a270acdc4b6287df22745bec1)] -> css selector: ul.dropdown-menu li:nth-of-type(2) a]
+2023-07-11 18:35:15 INFO  BaseClass:86 - Finding Element  :By.id: input-email
+2023-07-11 18:35:15 INFO  BaseClass:92 - Found Element  :By.id: input-email
+2023-07-11 18:35:15 INFO  BaseClass:86 - Finding Element  :By.id: input-password
+2023-07-11 18:35:15 INFO  BaseClass:92 - Found Element  :By.id: input-password
+2023-07-11 18:35:16 INFO  BaseClass:86 - Finding Element  :By.cssSelector: input[value='Login']
+2023-07-11 18:35:16 INFO  BaseClass:92 - Found Element  :By.cssSelector: input[value='Login']
+2023-07-11 18:35:17 INFO  BaseClass:104 - Clicked on :[[EdgeDriver: msedge on WINDOWS (6e17d06a270acdc4b6287df22745bec1)] -> css selector: input[value='Login']]
+2023-07-11 18:35:20 INFO  BaseClass:39 - Navigating to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-11 18:35:23 INFO  BaseClass:44 - Navigated to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-11 18:35:23 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-11 18:35:23 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-11 18:35:24 INFO  BaseClass:104 - Clicked on :[[EdgeDriver: msedge on WINDOWS (5d181df6ac86b05e57dff2e803b411e3)] -> css selector: ul.list-inline>li:nth-of-type(2) a]
+2023-07-11 18:35:24 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-11 18:35:24 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-11 18:35:24 INFO  BaseClass:104 - Clicked on :[[EdgeDriver: msedge on WINDOWS (5d181df6ac86b05e57dff2e803b411e3)] -> css selector: ul.dropdown-menu li:nth-of-type(2) a]
+2023-07-11 20:08:49 INFO  BaseClass:39 - Navigating to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-11 20:08:53 INFO  BaseClass:44 - Navigated to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-11 20:08:54 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-11 20:08:54 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-11 20:08:54 INFO  BaseClass:104 - Clicked on :[[EdgeDriver: msedge on WINDOWS (d1aec4bd5b72527f7282c49330e7eaa7)] -> css selector: ul.list-inline>li:nth-of-type(2) a]
+2023-07-11 20:08:54 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-11 20:08:54 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-11 20:08:55 INFO  BaseClass:104 - Clicked on :[[EdgeDriver: msedge on WINDOWS (d1aec4bd5b72527f7282c49330e7eaa7)] -> css selector: ul.dropdown-menu li:nth-of-type(2) a]
+2023-07-11 20:08:55 INFO  BaseClass:86 - Finding Element  :By.id: input-email
+2023-07-11 20:08:55 INFO  BaseClass:92 - Found Element  :By.id: input-email
+2023-07-11 20:08:55 INFO  BaseClass:86 - Finding Element  :By.id: input-password
+2023-07-11 20:08:55 INFO  BaseClass:92 - Found Element  :By.id: input-password
+2023-07-11 20:08:55 INFO  BaseClass:86 - Finding Element  :By.cssSelector: input[value='Login']
+2023-07-11 20:08:55 INFO  BaseClass:92 - Found Element  :By.cssSelector: input[value='Login']
+2023-07-11 20:08:56 INFO  BaseClass:104 - Clicked on :[[EdgeDriver: msedge on WINDOWS (d1aec4bd5b72527f7282c49330e7eaa7)] -> css selector: input[value='Login']]
+2023-07-12 03:09:38 INFO  BaseClass:39 - Navigating to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 03:09:42 INFO  BaseClass:44 - Navigated to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 03:09:42 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 03:09:42 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 03:09:42 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (23f3b2a0d49ec2a2ab78e756b3f3081f)] -> css selector: ul.list-inline>li:nth-of-type(2) a]
+2023-07-12 03:09:42 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 03:09:42 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 03:09:43 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (23f3b2a0d49ec2a2ab78e756b3f3081f)] -> css selector: ul.dropdown-menu li:nth-of-type(2) a]
+2023-07-12 03:09:43 INFO  BaseClass:86 - Finding Element  :By.id: input-email
+2023-07-12 03:09:43 INFO  BaseClass:92 - Found Element  :By.id: input-email
+2023-07-12 03:09:43 INFO  BaseClass:86 - Finding Element  :By.id: input-password
+2023-07-12 03:09:43 INFO  BaseClass:92 - Found Element  :By.id: input-password
+2023-07-12 03:09:43 INFO  BaseClass:86 - Finding Element  :By.cssSelector: input[value='Login']
+2023-07-12 03:09:43 INFO  BaseClass:92 - Found Element  :By.cssSelector: input[value='Login']
+2023-07-12 03:09:44 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (23f3b2a0d49ec2a2ab78e756b3f3081f)] -> css selector: input[value='Login']]
+2023-07-12 03:09:47 INFO  BaseClass:39 - Navigating to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 03:09:50 INFO  BaseClass:44 - Navigated to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 03:09:50 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 03:09:50 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 03:09:51 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (d10a096145c27498da8d51b80e472118)] -> css selector: ul.list-inline>li:nth-of-type(2) a]
+2023-07-12 03:09:51 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 03:09:51 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 03:09:51 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (d10a096145c27498da8d51b80e472118)] -> css selector: ul.dropdown-menu li:nth-of-type(2) a]
+2023-07-12 03:09:51 INFO  BaseClass:86 - Finding Element  :By.id: input-email
+2023-07-12 03:09:51 INFO  BaseClass:92 - Found Element  :By.id: input-email
+2023-07-12 03:09:52 INFO  BaseClass:86 - Finding Element  :By.id: input-password
+2023-07-12 03:09:52 INFO  BaseClass:92 - Found Element  :By.id: input-password
+2023-07-12 03:09:52 INFO  BaseClass:86 - Finding Element  :By.cssSelector: input[value='Login']
+2023-07-12 03:09:52 INFO  BaseClass:92 - Found Element  :By.cssSelector: input[value='Login']
+2023-07-12 03:09:53 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (d10a096145c27498da8d51b80e472118)] -> css selector: input[value='Login']]
+2023-07-12 03:09:56 INFO  BaseClass:39 - Navigating to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 03:10:00 INFO  BaseClass:44 - Navigated to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 03:10:00 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 03:10:00 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 03:10:00 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (04f76c496f4d52f8b2620b45adf44116)] -> css selector: ul.list-inline>li:nth-of-type(2) a]
+2023-07-12 03:10:00 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 03:10:00 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 03:10:01 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (04f76c496f4d52f8b2620b45adf44116)] -> css selector: ul.dropdown-menu li:nth-of-type(2) a]
+2023-07-12 16:39:08 INFO  BaseClass:39 - Navigating to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 16:39:11 INFO  BaseClass:44 - Navigated to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 16:39:11 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 16:39:11 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 16:39:12 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (b5d231e9196834557072f52eb390f0a0)] -> css selector: ul.list-inline>li:nth-of-type(2) a]
+2023-07-12 16:39:12 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 16:39:12 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 16:39:12 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (b5d231e9196834557072f52eb390f0a0)] -> css selector: ul.dropdown-menu li:nth-of-type(2) a]
+2023-07-12 16:39:12 INFO  BaseClass:86 - Finding Element  :By.id: input-email
+2023-07-12 16:39:12 INFO  BaseClass:92 - Found Element  :By.id: input-email
+2023-07-12 16:39:13 INFO  BaseClass:86 - Finding Element  :By.id: input-password
+2023-07-12 16:39:13 INFO  BaseClass:92 - Found Element  :By.id: input-password
+2023-07-12 16:39:13 INFO  BaseClass:86 - Finding Element  :By.cssSelector: input[value='Login']
+2023-07-12 16:39:13 INFO  BaseClass:92 - Found Element  :By.cssSelector: input[value='Login']
+2023-07-12 16:39:13 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (b5d231e9196834557072f52eb390f0a0)] -> css selector: input[value='Login']]
+2023-07-12 16:39:16 INFO  BaseClass:39 - Navigating to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 16:39:17 INFO  BaseClass:44 - Navigated to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 16:39:20 INFO  BaseClass:39 - Navigating to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 16:39:24 INFO  BaseClass:44 - Navigated to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 16:39:24 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 16:39:24 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 16:39:24 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (ca04dc06285dc5ea87f70f18121d1857)] -> css selector: ul.list-inline>li:nth-of-type(2) a]
+2023-07-12 16:39:24 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 16:39:24 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 16:39:25 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (ca04dc06285dc5ea87f70f18121d1857)] -> css selector: ul.dropdown-menu li:nth-of-type(2) a]
+2023-07-12 17:54:17 INFO  BaseClass:39 - Navigating to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 17:54:21 INFO  BaseClass:44 - Navigated to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 17:54:21 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 17:54:21 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 17:54:21 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (213e503ee06c08e9e618246c4143c8ee)] -> css selector: ul.list-inline>li:nth-of-type(2) a]
+2023-07-12 17:54:21 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 17:54:21 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 17:54:21 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (213e503ee06c08e9e618246c4143c8ee)] -> css selector: ul.dropdown-menu li:nth-of-type(2) a]
+2023-07-12 17:54:21 INFO  BaseClass:86 - Finding Element  :By.id: input-email
+2023-07-12 17:54:21 INFO  BaseClass:92 - Found Element  :By.id: input-email
+2023-07-12 17:54:22 INFO  BaseClass:86 - Finding Element  :By.id: input-password
+2023-07-12 17:54:22 INFO  BaseClass:92 - Found Element  :By.id: input-password
+2023-07-12 17:54:22 INFO  BaseClass:86 - Finding Element  :By.cssSelector: input[value='Login']
+2023-07-12 17:54:22 INFO  BaseClass:92 - Found Element  :By.cssSelector: input[value='Login']
+2023-07-12 17:54:24 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (213e503ee06c08e9e618246c4143c8ee)] -> css selector: input[value='Login']]
+2023-07-12 17:56:21 INFO  BaseClass:39 - Navigating to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 17:56:27 INFO  BaseClass:44 - Navigated to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 17:56:27 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 17:56:27 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 17:56:27 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (8514c117a045c88b35dfb103190b8016)] -> css selector: ul.list-inline>li:nth-of-type(2) a]
+2023-07-12 17:56:27 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 17:56:27 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 17:56:28 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (8514c117a045c88b35dfb103190b8016)] -> css selector: ul.dropdown-menu li:nth-of-type(2) a]
+2023-07-12 17:56:28 INFO  BaseClass:86 - Finding Element  :By.id: input-email
+2023-07-12 17:56:28 INFO  BaseClass:92 - Found Element  :By.id: input-email
+2023-07-12 17:56:28 INFO  BaseClass:86 - Finding Element  :By.id: input-password
+2023-07-12 17:56:28 INFO  BaseClass:92 - Found Element  :By.id: input-password
+2023-07-12 17:56:28 INFO  BaseClass:86 - Finding Element  :By.cssSelector: input[value='Login']
+2023-07-12 17:56:28 INFO  BaseClass:92 - Found Element  :By.cssSelector: input[value='Login']
+2023-07-12 17:56:28 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (8514c117a045c88b35dfb103190b8016)] -> css selector: input[value='Login']]
+2023-07-12 17:56:31 INFO  BaseClass:39 - Navigating to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 17:56:35 INFO  BaseClass:44 - Navigated to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 17:56:35 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 17:56:35 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 17:56:35 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (dae25cb10b8b2190a4da04b0243d960b)] -> css selector: ul.list-inline>li:nth-of-type(2) a]
+2023-07-12 17:56:35 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 17:56:35 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 17:56:36 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (dae25cb10b8b2190a4da04b0243d960b)] -> css selector: ul.dropdown-menu li:nth-of-type(2) a]
+2023-07-12 17:56:36 INFO  BaseClass:86 - Finding Element  :By.id: input-email
+2023-07-12 17:56:36 INFO  BaseClass:92 - Found Element  :By.id: input-email
+2023-07-12 17:56:36 INFO  BaseClass:86 - Finding Element  :By.id: input-password
+2023-07-12 17:56:36 INFO  BaseClass:92 - Found Element  :By.id: input-password
+2023-07-12 17:56:36 INFO  BaseClass:86 - Finding Element  :By.cssSelector: input[value='Login']
+2023-07-12 17:56:36 INFO  BaseClass:92 - Found Element  :By.cssSelector: input[value='Login']
+2023-07-12 17:56:37 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (dae25cb10b8b2190a4da04b0243d960b)] -> css selector: input[value='Login']]
+2023-07-12 17:56:40 INFO  BaseClass:39 - Navigating to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 17:56:43 INFO  BaseClass:44 - Navigated to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 17:56:44 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 17:56:44 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 17:56:44 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (616776f9b473b4d1753b7a4358cca804)] -> css selector: ul.list-inline>li:nth-of-type(2) a]
+2023-07-12 17:56:44 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 17:56:44 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 17:56:45 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (616776f9b473b4d1753b7a4358cca804)] -> css selector: ul.dropdown-menu li:nth-of-type(2) a]
+2023-07-12 17:57:18 INFO  BaseClass:39 - Navigating to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 17:57:21 INFO  BaseClass:44 - Navigated to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 17:57:21 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 17:57:21 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 17:57:21 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (2aaa7355b9b196f0cca4eedf7954ae94)] -> css selector: ul.list-inline>li:nth-of-type(2) a]
+2023-07-12 17:57:21 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 17:57:21 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 17:57:22 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (2aaa7355b9b196f0cca4eedf7954ae94)] -> css selector: ul.dropdown-menu li:nth-of-type(2) a]
+2023-07-12 17:57:22 INFO  BaseClass:86 - Finding Element  :By.id: input-email
+2023-07-12 17:57:22 INFO  BaseClass:92 - Found Element  :By.id: input-email
+2023-07-12 17:57:22 INFO  BaseClass:86 - Finding Element  :By.id: input-password
+2023-07-12 17:57:22 INFO  BaseClass:92 - Found Element  :By.id: input-password
+2023-07-12 17:57:22 INFO  BaseClass:86 - Finding Element  :By.cssSelector: input[value='Login']
+2023-07-12 17:57:22 INFO  BaseClass:92 - Found Element  :By.cssSelector: input[value='Login']
+2023-07-12 17:57:23 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (2aaa7355b9b196f0cca4eedf7954ae94)] -> css selector: input[value='Login']]
+2023-07-12 17:57:25 INFO  BaseClass:39 - Navigating to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 17:57:28 INFO  BaseClass:44 - Navigated to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 17:57:29 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 17:57:29 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 17:57:29 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (07092205b34d800dcc467e5091074eae)] -> css selector: ul.list-inline>li:nth-of-type(2) a]
+2023-07-12 17:57:29 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 17:57:29 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 17:57:29 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (07092205b34d800dcc467e5091074eae)] -> css selector: ul.dropdown-menu li:nth-of-type(2) a]
+2023-07-12 17:57:29 INFO  BaseClass:86 - Finding Element  :By.id: input-email
+2023-07-12 17:57:29 INFO  BaseClass:92 - Found Element  :By.id: input-email
+2023-07-12 17:57:30 INFO  BaseClass:86 - Finding Element  :By.id: input-password
+2023-07-12 17:57:30 INFO  BaseClass:92 - Found Element  :By.id: input-password
+2023-07-12 17:57:30 INFO  BaseClass:86 - Finding Element  :By.cssSelector: input[value='Login']
+2023-07-12 17:57:30 INFO  BaseClass:92 - Found Element  :By.cssSelector: input[value='Login']
+2023-07-12 17:57:31 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (07092205b34d800dcc467e5091074eae)] -> css selector: input[value='Login']]
+2023-07-12 17:57:33 INFO  BaseClass:39 - Navigating to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 17:57:37 INFO  BaseClass:44 - Navigated to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 17:57:37 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 17:57:37 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 17:57:38 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (03140617c3bcea3e6484c4bafa2f85e6)] -> css selector: ul.list-inline>li:nth-of-type(2) a]
+2023-07-12 17:57:38 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 17:57:38 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 17:57:38 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (03140617c3bcea3e6484c4bafa2f85e6)] -> css selector: ul.dropdown-menu li:nth-of-type(2) a]
+2023-07-12 17:57:58 INFO  BaseClass:39 - Navigating to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 17:58:01 INFO  BaseClass:44 - Navigated to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 17:58:01 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 17:58:01 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 17:58:01 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (9ef0fabeea8d920b038adc2640fa3a18)] -> css selector: ul.list-inline>li:nth-of-type(2) a]
+2023-07-12 17:58:01 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 17:58:01 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 17:58:02 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (9ef0fabeea8d920b038adc2640fa3a18)] -> css selector: ul.dropdown-menu li:nth-of-type(2) a]
+2023-07-12 17:58:02 INFO  BaseClass:86 - Finding Element  :By.id: input-email
+2023-07-12 17:58:02 INFO  BaseClass:92 - Found Element  :By.id: input-email
+2023-07-12 17:58:02 INFO  BaseClass:86 - Finding Element  :By.id: input-password
+2023-07-12 17:58:02 INFO  BaseClass:92 - Found Element  :By.id: input-password
+2023-07-12 17:58:02 INFO  BaseClass:86 - Finding Element  :By.cssSelector: input[value='Login']
+2023-07-12 17:58:02 INFO  BaseClass:92 - Found Element  :By.cssSelector: input[value='Login']
+2023-07-12 17:58:03 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (9ef0fabeea8d920b038adc2640fa3a18)] -> css selector: input[value='Login']]
+2023-07-12 17:58:05 INFO  BaseClass:39 - Navigating to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 17:58:08 INFO  BaseClass:44 - Navigated to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 17:58:08 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 17:58:08 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 17:58:09 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (9bf8777c2edcff611abbca69c3b5a287)] -> css selector: ul.list-inline>li:nth-of-type(2) a]
+2023-07-12 17:58:09 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 17:58:09 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 17:58:09 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (9bf8777c2edcff611abbca69c3b5a287)] -> css selector: ul.dropdown-menu li:nth-of-type(2) a]
+2023-07-12 17:58:09 INFO  BaseClass:86 - Finding Element  :By.id: input-email
+2023-07-12 17:58:09 INFO  BaseClass:92 - Found Element  :By.id: input-email
+2023-07-12 17:58:09 INFO  BaseClass:86 - Finding Element  :By.id: input-password
+2023-07-12 17:58:09 INFO  BaseClass:92 - Found Element  :By.id: input-password
+2023-07-12 17:58:10 INFO  BaseClass:86 - Finding Element  :By.cssSelector: input[value='Login']
+2023-07-12 17:58:10 INFO  BaseClass:92 - Found Element  :By.cssSelector: input[value='Login']
+2023-07-12 17:58:11 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (9bf8777c2edcff611abbca69c3b5a287)] -> css selector: input[value='Login']]
+2023-07-12 17:58:12 INFO  BaseClass:39 - Navigating to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 17:58:16 INFO  BaseClass:44 - Navigated to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 17:58:16 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 17:58:16 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 17:58:16 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (6688b5b04cce74ca05556a989a049c34)] -> css selector: ul.list-inline>li:nth-of-type(2) a]
+2023-07-12 17:58:16 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 17:58:16 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 17:58:17 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (6688b5b04cce74ca05556a989a049c34)] -> css selector: ul.dropdown-menu li:nth-of-type(2) a]
+2023-07-12 18:06:02 INFO  BaseClass:39 - Navigating to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 18:06:05 INFO  BaseClass:44 - Navigated to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 18:06:06 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 18:06:06 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 18:06:06 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (fe886be7a152d2999fc902593d973427)] -> css selector: ul.list-inline>li:nth-of-type(2) a]
+2023-07-12 18:06:06 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 18:06:06 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 18:06:06 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (fe886be7a152d2999fc902593d973427)] -> css selector: ul.dropdown-menu li:nth-of-type(2) a]
+2023-07-12 18:06:06 INFO  BaseClass:86 - Finding Element  :By.id: input-email
+2023-07-12 18:06:06 INFO  BaseClass:92 - Found Element  :By.id: input-email
+2023-07-12 18:06:07 INFO  BaseClass:86 - Finding Element  :By.id: input-password
+2023-07-12 18:06:07 INFO  BaseClass:92 - Found Element  :By.id: input-password
+2023-07-12 18:06:07 INFO  BaseClass:86 - Finding Element  :By.cssSelector: input[value='Login']
+2023-07-12 18:06:07 INFO  BaseClass:92 - Found Element  :By.cssSelector: input[value='Login']
+2023-07-12 18:06:08 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (fe886be7a152d2999fc902593d973427)] -> css selector: input[value='Login']]
+2023-07-12 18:06:11 INFO  BaseClass:39 - Navigating to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 18:06:14 INFO  BaseClass:44 - Navigated to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 18:06:14 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 18:06:14 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 18:06:14 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (8fb9d1fec15065dee4a76e99744de69f)] -> css selector: ul.list-inline>li:nth-of-type(2) a]
+2023-07-12 18:06:14 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 18:06:14 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 18:06:15 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (8fb9d1fec15065dee4a76e99744de69f)] -> css selector: ul.dropdown-menu li:nth-of-type(2) a]
+2023-07-12 18:06:15 INFO  BaseClass:86 - Finding Element  :By.id: input-email
+2023-07-12 18:06:15 INFO  BaseClass:92 - Found Element  :By.id: input-email
+2023-07-12 18:06:15 INFO  BaseClass:86 - Finding Element  :By.id: input-password
+2023-07-12 18:06:15 INFO  BaseClass:92 - Found Element  :By.id: input-password
+2023-07-12 18:06:16 INFO  BaseClass:86 - Finding Element  :By.cssSelector: input[value='Login']
+2023-07-12 18:06:16 INFO  BaseClass:92 - Found Element  :By.cssSelector: input[value='Login']
+2023-07-12 18:06:17 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (8fb9d1fec15065dee4a76e99744de69f)] -> css selector: input[value='Login']]
+2023-07-12 18:06:19 INFO  BaseClass:39 - Navigating to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 18:06:23 INFO  BaseClass:44 - Navigated to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 18:06:23 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 18:06:23 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 18:06:23 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (8d06c133794bc84664b9ec834ba5fcb5)] -> css selector: ul.list-inline>li:nth-of-type(2) a]
+2023-07-12 18:06:23 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 18:06:23 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 18:06:24 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (8d06c133794bc84664b9ec834ba5fcb5)] -> css selector: ul.dropdown-menu li:nth-of-type(2) a]
+2023-07-12 18:13:38 INFO  BaseClass:39 - Navigating to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 18:13:42 INFO  BaseClass:44 - Navigated to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 18:13:42 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 18:13:42 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 18:13:42 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (77a988e2d371679fe8c51cc12d32e483)] -> css selector: ul.list-inline>li:nth-of-type(2) a]
+2023-07-12 18:13:42 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 18:13:42 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 18:13:42 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (77a988e2d371679fe8c51cc12d32e483)] -> css selector: ul.dropdown-menu li:nth-of-type(2) a]
+2023-07-12 18:13:42 INFO  BaseClass:86 - Finding Element  :By.id: input-email
+2023-07-12 18:13:42 INFO  BaseClass:92 - Found Element  :By.id: input-email
+2023-07-12 18:13:43 INFO  BaseClass:86 - Finding Element  :By.id: input-password
+2023-07-12 18:13:43 INFO  BaseClass:92 - Found Element  :By.id: input-password
+2023-07-12 18:13:43 INFO  BaseClass:86 - Finding Element  :By.cssSelector: input[value='Login']
+2023-07-12 18:13:43 INFO  BaseClass:92 - Found Element  :By.cssSelector: input[value='Login']
+2023-07-12 18:13:44 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (77a988e2d371679fe8c51cc12d32e483)] -> css selector: input[value='Login']]
+2023-07-12 18:13:46 INFO  BaseClass:39 - Navigating to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 18:13:49 INFO  BaseClass:44 - Navigated to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 18:13:49 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 18:13:49 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 18:13:49 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (812d97f43821be4320dd2cb49c7dc5db)] -> css selector: ul.list-inline>li:nth-of-type(2) a]
+2023-07-12 18:13:49 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 18:13:49 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 18:13:50 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (812d97f43821be4320dd2cb49c7dc5db)] -> css selector: ul.dropdown-menu li:nth-of-type(2) a]
+2023-07-12 18:13:50 INFO  BaseClass:86 - Finding Element  :By.id: input-email
+2023-07-12 18:13:50 INFO  BaseClass:92 - Found Element  :By.id: input-email
+2023-07-12 18:13:50 INFO  BaseClass:86 - Finding Element  :By.id: input-password
+2023-07-12 18:13:51 INFO  BaseClass:92 - Found Element  :By.id: input-password
+2023-07-12 18:13:51 INFO  BaseClass:86 - Finding Element  :By.cssSelector: input[value='Login']
+2023-07-12 18:13:51 INFO  BaseClass:92 - Found Element  :By.cssSelector: input[value='Login']
+2023-07-12 18:13:52 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (812d97f43821be4320dd2cb49c7dc5db)] -> css selector: input[value='Login']]
+2023-07-12 18:13:54 INFO  BaseClass:39 - Navigating to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 18:13:57 INFO  BaseClass:44 - Navigated to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 18:13:57 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 18:13:57 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 18:13:58 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (e34535a3d8b2a64672030f7215f4948a)] -> css selector: ul.list-inline>li:nth-of-type(2) a]
+2023-07-12 18:13:58 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 18:13:58 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 18:13:58 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (e34535a3d8b2a64672030f7215f4948a)] -> css selector: ul.dropdown-menu li:nth-of-type(2) a]
+2023-07-12 18:15:20 INFO  BaseClass:39 - Navigating to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 18:15:23 INFO  BaseClass:44 - Navigated to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 18:15:23 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 18:15:23 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 18:15:24 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (c8fa4f9e56d7dae7a1a13b52c6bf5f00)] -> css selector: ul.list-inline>li:nth-of-type(2) a]
+2023-07-12 18:15:24 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 18:15:24 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 18:15:24 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (c8fa4f9e56d7dae7a1a13b52c6bf5f00)] -> css selector: ul.dropdown-menu li:nth-of-type(2) a]
+2023-07-12 18:15:24 INFO  BaseClass:86 - Finding Element  :By.id: input-email
+2023-07-12 18:15:24 INFO  BaseClass:92 - Found Element  :By.id: input-email
+2023-07-12 18:15:25 INFO  BaseClass:86 - Finding Element  :By.id: input-password
+2023-07-12 18:15:25 INFO  BaseClass:92 - Found Element  :By.id: input-password
+2023-07-12 18:15:25 INFO  BaseClass:86 - Finding Element  :By.cssSelector: input[value='Login']
+2023-07-12 18:15:25 INFO  BaseClass:92 - Found Element  :By.cssSelector: input[value='Login']
+2023-07-12 18:15:25 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (c8fa4f9e56d7dae7a1a13b52c6bf5f00)] -> css selector: input[value='Login']]
+2023-07-12 18:15:27 INFO  BaseClass:39 - Navigating to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 18:15:30 INFO  BaseClass:44 - Navigated to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 18:15:30 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 18:15:30 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 18:15:31 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (b6c7a4b4ef9a7e66a97b2e55459cb5c0)] -> css selector: ul.list-inline>li:nth-of-type(2) a]
+2023-07-12 18:15:31 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 18:15:31 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 18:15:31 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (b6c7a4b4ef9a7e66a97b2e55459cb5c0)] -> css selector: ul.dropdown-menu li:nth-of-type(2) a]
+2023-07-12 18:15:31 INFO  BaseClass:86 - Finding Element  :By.id: input-email
+2023-07-12 18:15:31 INFO  BaseClass:92 - Found Element  :By.id: input-email
+2023-07-12 18:15:31 INFO  BaseClass:86 - Finding Element  :By.id: input-password
+2023-07-12 18:15:31 INFO  BaseClass:92 - Found Element  :By.id: input-password
+2023-07-12 18:15:32 INFO  BaseClass:86 - Finding Element  :By.cssSelector: input[value='Login']
+2023-07-12 18:15:32 INFO  BaseClass:92 - Found Element  :By.cssSelector: input[value='Login']
+2023-07-12 18:15:33 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (b6c7a4b4ef9a7e66a97b2e55459cb5c0)] -> css selector: input[value='Login']]
+2023-07-12 18:15:34 INFO  BaseClass:39 - Navigating to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 18:15:38 INFO  BaseClass:44 - Navigated to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 18:15:38 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 18:15:38 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 18:15:38 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (ec58928dd40f2524d1334d8cf4199fc3)] -> css selector: ul.list-inline>li:nth-of-type(2) a]
+2023-07-12 18:15:38 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 18:15:38 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 18:15:39 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (ec58928dd40f2524d1334d8cf4199fc3)] -> css selector: ul.dropdown-menu li:nth-of-type(2) a]
+2023-07-12 18:17:55 INFO  BaseClass:39 - Navigating to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 18:17:59 INFO  BaseClass:44 - Navigated to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 18:17:59 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 18:17:59 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 18:17:59 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (502f2be2eef8896af06bfa91be76dc2f)] -> css selector: ul.list-inline>li:nth-of-type(2) a]
+2023-07-12 18:17:59 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 18:17:59 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 18:18:00 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (502f2be2eef8896af06bfa91be76dc2f)] -> css selector: ul.dropdown-menu li:nth-of-type(2) a]
+2023-07-12 18:18:00 INFO  BaseClass:86 - Finding Element  :By.id: input-email
+2023-07-12 18:18:00 INFO  BaseClass:92 - Found Element  :By.id: input-email
+2023-07-12 18:18:00 INFO  BaseClass:86 - Finding Element  :By.id: input-password
+2023-07-12 18:18:00 INFO  BaseClass:92 - Found Element  :By.id: input-password
+2023-07-12 18:18:00 INFO  BaseClass:86 - Finding Element  :By.cssSelector: input[value='Login']
+2023-07-12 18:18:00 INFO  BaseClass:92 - Found Element  :By.cssSelector: input[value='Login']
+2023-07-12 18:18:00 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (502f2be2eef8896af06bfa91be76dc2f)] -> css selector: input[value='Login']]
+2023-07-12 18:18:02 INFO  BaseClass:39 - Navigating to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 18:18:06 INFO  BaseClass:44 - Navigated to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 18:18:06 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 18:18:06 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 18:18:06 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (807e84dfae72ff5e748aad1b3b5ced78)] -> css selector: ul.list-inline>li:nth-of-type(2) a]
+2023-07-12 18:18:06 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 18:18:06 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 18:18:07 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (807e84dfae72ff5e748aad1b3b5ced78)] -> css selector: ul.dropdown-menu li:nth-of-type(2) a]
+2023-07-12 18:18:07 INFO  BaseClass:86 - Finding Element  :By.id: input-email
+2023-07-12 18:18:07 INFO  BaseClass:92 - Found Element  :By.id: input-email
+2023-07-12 18:18:07 INFO  BaseClass:86 - Finding Element  :By.id: input-password
+2023-07-12 18:18:07 INFO  BaseClass:92 - Found Element  :By.id: input-password
+2023-07-12 18:18:07 INFO  BaseClass:86 - Finding Element  :By.cssSelector: input[value='Login']
+2023-07-12 18:18:07 INFO  BaseClass:92 - Found Element  :By.cssSelector: input[value='Login']
+2023-07-12 18:18:08 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (807e84dfae72ff5e748aad1b3b5ced78)] -> css selector: input[value='Login']]
+2023-07-12 18:18:10 INFO  BaseClass:39 - Navigating to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 18:18:14 INFO  BaseClass:44 - Navigated to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 18:18:14 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 18:18:14 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 18:18:14 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (196c3f69ccf9a6fb205b6caca4be8776)] -> css selector: ul.list-inline>li:nth-of-type(2) a]
+2023-07-12 18:18:14 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 18:18:14 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 18:18:15 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (196c3f69ccf9a6fb205b6caca4be8776)] -> css selector: ul.dropdown-menu li:nth-of-type(2) a]
+2023-07-12 18:27:54 INFO  BaseClass:39 - Navigating to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 18:27:58 INFO  BaseClass:44 - Navigated to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 18:27:58 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 18:27:58 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 18:27:58 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (5a1678c39e147826d3bf2423328f5434)] -> css selector: ul.list-inline>li:nth-of-type(2) a]
+2023-07-12 18:27:58 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 18:27:58 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 18:27:59 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (5a1678c39e147826d3bf2423328f5434)] -> css selector: ul.dropdown-menu li:nth-of-type(2) a]
+2023-07-12 18:27:59 INFO  BaseClass:86 - Finding Element  :By.id: input-email
+2023-07-12 18:27:59 INFO  BaseClass:92 - Found Element  :By.id: input-email
+2023-07-12 18:27:59 INFO  BaseClass:86 - Finding Element  :By.id: input-password
+2023-07-12 18:27:59 INFO  BaseClass:92 - Found Element  :By.id: input-password
+2023-07-12 18:27:59 INFO  BaseClass:86 - Finding Element  :By.cssSelector: input[value='Login']
+2023-07-12 18:27:59 INFO  BaseClass:92 - Found Element  :By.cssSelector: input[value='Login']
+2023-07-12 18:28:00 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (5a1678c39e147826d3bf2423328f5434)] -> css selector: input[value='Login']]
+2023-07-12 18:28:02 INFO  BaseClass:39 - Navigating to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 18:28:05 INFO  BaseClass:44 - Navigated to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 18:28:05 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 18:28:05 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 18:28:06 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (6916d1c6481bf31b5d2dbe920c954a07)] -> css selector: ul.list-inline>li:nth-of-type(2) a]
+2023-07-12 18:28:06 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 18:28:06 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 18:28:06 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (6916d1c6481bf31b5d2dbe920c954a07)] -> css selector: ul.dropdown-menu li:nth-of-type(2) a]
+2023-07-12 18:28:06 INFO  BaseClass:86 - Finding Element  :By.id: input-email
+2023-07-12 18:28:06 INFO  BaseClass:92 - Found Element  :By.id: input-email
+2023-07-12 18:28:06 INFO  BaseClass:86 - Finding Element  :By.id: input-password
+2023-07-12 18:28:06 INFO  BaseClass:92 - Found Element  :By.id: input-password
+2023-07-12 18:28:06 INFO  BaseClass:86 - Finding Element  :By.cssSelector: input[value='Login']
+2023-07-12 18:28:06 INFO  BaseClass:92 - Found Element  :By.cssSelector: input[value='Login']
+2023-07-12 18:28:08 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (6916d1c6481bf31b5d2dbe920c954a07)] -> css selector: input[value='Login']]
+2023-07-12 18:28:10 INFO  BaseClass:39 - Navigating to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 18:28:13 INFO  BaseClass:44 - Navigated to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 18:28:13 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 18:28:13 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 18:28:14 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (fbeb15220df794569786c8fec834bf2c)] -> css selector: ul.list-inline>li:nth-of-type(2) a]
+2023-07-12 18:28:14 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 18:28:14 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 18:28:14 INFO  BaseClass:104 - Clicked on :[[ChromeDriver: chrome on WINDOWS (fbeb15220df794569786c8fec834bf2c)] -> css selector: ul.dropdown-menu li:nth-of-type(2) a]
+2023-07-12 18:29:42 INFO  BaseClass:39 - Navigating to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 18:29:45 INFO  BaseClass:44 - Navigated to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 18:29:45 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 18:29:45 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 18:29:46 INFO  BaseClass:104 - Clicked on :[[EdgeDriver: msedge on WINDOWS (d0b3dfb682528478b2e84e46238d43d7)] -> css selector: ul.list-inline>li:nth-of-type(2) a]
+2023-07-12 18:29:46 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 18:29:46 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 18:29:46 INFO  BaseClass:104 - Clicked on :[[EdgeDriver: msedge on WINDOWS (d0b3dfb682528478b2e84e46238d43d7)] -> css selector: ul.dropdown-menu li:nth-of-type(2) a]
+2023-07-12 18:29:46 INFO  BaseClass:86 - Finding Element  :By.id: input-email
+2023-07-12 18:29:46 INFO  BaseClass:92 - Found Element  :By.id: input-email
+2023-07-12 18:29:46 INFO  BaseClass:86 - Finding Element  :By.id: input-password
+2023-07-12 18:29:46 INFO  BaseClass:92 - Found Element  :By.id: input-password
+2023-07-12 18:29:47 INFO  BaseClass:86 - Finding Element  :By.cssSelector: input[value='Login']
+2023-07-12 18:29:47 INFO  BaseClass:92 - Found Element  :By.cssSelector: input[value='Login']
+2023-07-12 18:29:47 INFO  BaseClass:104 - Clicked on :[[EdgeDriver: msedge on WINDOWS (d0b3dfb682528478b2e84e46238d43d7)] -> css selector: input[value='Login']]
+2023-07-12 18:29:50 INFO  BaseClass:39 - Navigating to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 18:29:54 INFO  BaseClass:44 - Navigated to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 18:29:54 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 18:29:54 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 18:29:54 INFO  BaseClass:104 - Clicked on :[[EdgeDriver: msedge on WINDOWS (c43be67fdd9631821d8de834db380360)] -> css selector: ul.list-inline>li:nth-of-type(2) a]
+2023-07-12 18:29:54 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 18:29:54 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 18:29:55 INFO  BaseClass:104 - Clicked on :[[EdgeDriver: msedge on WINDOWS (c43be67fdd9631821d8de834db380360)] -> css selector: ul.dropdown-menu li:nth-of-type(2) a]
+2023-07-12 18:29:55 INFO  BaseClass:86 - Finding Element  :By.id: input-email
+2023-07-12 18:29:55 INFO  BaseClass:92 - Found Element  :By.id: input-email
+2023-07-12 18:29:55 INFO  BaseClass:86 - Finding Element  :By.id: input-password
+2023-07-12 18:29:55 INFO  BaseClass:92 - Found Element  :By.id: input-password
+2023-07-12 18:29:55 INFO  BaseClass:86 - Finding Element  :By.cssSelector: input[value='Login']
+2023-07-12 18:29:55 INFO  BaseClass:92 - Found Element  :By.cssSelector: input[value='Login']
+2023-07-12 18:29:56 INFO  BaseClass:104 - Clicked on :[[EdgeDriver: msedge on WINDOWS (c43be67fdd9631821d8de834db380360)] -> css selector: input[value='Login']]
+2023-07-12 18:29:59 INFO  BaseClass:39 - Navigating to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 18:30:02 INFO  BaseClass:44 - Navigated to URL :https://naveenautomationlabs.com/opencart/index.php?route=common/home
+2023-07-12 18:30:03 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 18:30:03 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.list-inline>li:nth-of-type(2) a
+2023-07-12 18:30:03 INFO  BaseClass:104 - Clicked on :[[EdgeDriver: msedge on WINDOWS (e7edb406feef83e15834d00e7e656bbf)] -> css selector: ul.list-inline>li:nth-of-type(2) a]
+2023-07-12 18:30:03 INFO  BaseClass:86 - Finding Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 18:30:03 INFO  BaseClass:92 - Found Element  :By.cssSelector: ul.dropdown-menu li:nth-of-type(2) a
+2023-07-12 18:30:03 INFO  BaseClass:104 - Clicked on :[[EdgeDriver: msedge on WINDOWS (e7edb406feef83e15834d00e7e656bbf)] -> css selector: ul.dropdown-menu li:nth-of-type(2) a]
