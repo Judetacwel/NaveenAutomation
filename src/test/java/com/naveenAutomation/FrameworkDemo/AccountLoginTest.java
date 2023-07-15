@@ -42,5 +42,9 @@ public class AccountLoginTest extends BaseClass {
 		Assert.assertEquals(wd.getTitle(), "Account Login");
 
 	}
+	@Test
+	public void testfailure() {
+		Assert.assertEquals("Jude", "JudEJUDE");
+	}
 
 }
