@@ -43,7 +43,7 @@ public class MyAccountTest extends BaseClass{
 		accountLogin.enterPassword("Password2");
 		myAccount=accountLogin.login();
 		myAccount.clickWishListBtn();
-		Assert.assertEquals(wd.getTitle(), "My Wish List");
+		Assert.assertEquals(wd.getTitle(), "My  List");
 		
 	}
 	
