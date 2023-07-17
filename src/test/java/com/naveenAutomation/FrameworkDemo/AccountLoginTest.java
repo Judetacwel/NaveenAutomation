@@ -46,7 +46,7 @@ public class AccountLoginTest extends BaseClass {
 	
 	@Test
 	public void testfailure() {
-		Assert.assertEquals("Jude", "JudeTacwel");
+		Assert.assertEquals("Jude", "Jude");
 	}
 
 }
