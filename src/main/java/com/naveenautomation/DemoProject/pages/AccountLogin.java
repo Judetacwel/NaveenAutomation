@@ -29,8 +29,9 @@ public class AccountLogin extends BaseClass {
 		passwordInputField.sendKeys(password);
 	}
 	
-	public void login() {
+	public MyAccount login() {
 		loginBtn.click();
+		return new MyAccount();
 		
 	}
 

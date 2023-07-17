@@ -14,6 +14,10 @@
 			<class name="com.naveenautomation.DemoProject.base.BaseClass" />
 			<class
 				name="com.naveenAutomation.FrameworkDemo.AccountLoginTest" />
+			<class name="com.naveenAutomation.FrameworkDemo.MyAccountTest" />
+			<class name="com.naveenAutomation.FrameworkDemo.MyWishListTest" />
+			
+			
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->
