@@ -26,5 +26,7 @@ public class YourStoreTest extends BaseClass {
 		accountLogin= yourStore.clickLoginBtn();
 		Assert.assertEquals(wd.getTitle(),"Account Login");
 	}
+	
+	
 
 }
