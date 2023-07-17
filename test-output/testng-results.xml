@@ -1,34 +1,180 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="3" passed="2" failed="1" skipped="0">
+<testng-results retried="2" ignored="0" total="9" passed="5" failed="2" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-07-17T16:20:50 EDT" name="Default suite" finished-at="2023-07-17T16:21:17 EDT" duration-ms="27085">
+  <suite started-at="2023-07-17T19:22:00 EDT" name="Suite" finished-at="2023-07-17T19:23:53 EDT" duration-ms="113271">
     <groups>
     </groups>
-    <test started-at="2023-07-17T16:20:50 EDT" name="Default test" finished-at="2023-07-17T16:21:17 EDT" duration-ms="27085">
-      <class name="com.naveenAutomation.FrameworkDemo.AccountLoginTest">
-        <test-method is-config="true" signature="setUpLogger()[pri:0, instance:com.naveenAutomation.FrameworkDemo.AccountLoginTest@14555e0a]" started-at="2023-07-17T16:20:50 EDT" name="setUpLogger" finished-at="2023-07-17T16:20:50 EDT" duration-ms="259" status="PASS">
+    <test started-at="2023-07-17T19:22:00 EDT" name="Test" finished-at="2023-07-17T19:23:53 EDT" duration-ms="113271">
+      <class name="com.naveenAutomation.FrameworkDemo.MyWishListTest">
+        <test-method is-config="true" signature="setUpLogger()[pri:0, instance:com.naveenAutomation.FrameworkDemo.MyWishListTest@4a7f959b]" started-at="2023-07-17T19:23:41 EDT" name="setUpLogger" finished-at="2023-07-17T19:23:41 EDT" duration-ms="4" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpLogger -->
-        <test-method is-config="true" signature="setUP()[pri:0, instance:com.naveenAutomation.FrameworkDemo.AccountLoginTest@14555e0a]" started-at="2023-07-17T16:20:50 EDT" name="setUP" finished-at="2023-07-17T16:20:59 EDT" duration-ms="8674" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.naveenAutomation.FrameworkDemo.MyWishListTest@4a7f959b]" started-at="2023-07-17T19:23:41 EDT" name="setup" finished-at="2023-07-17T19:23:47 EDT" duration-ms="6631" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="clickOnMonitors()[pri:0, instance:com.naveenAutomation.FrameworkDemo.MyWishListTest@4a7f959b]" started-at="2023-07-17T19:23:47 EDT" name="clickOnMonitors" finished-at="2023-07-17T19:23:53 EDT" duration-ms="5588" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnMonitors -->
+      </class> <!-- com.naveenAutomation.FrameworkDemo.MyWishListTest -->
+      <class name="com.naveenAutomation.FrameworkDemo.YourStoreTest">
+        <test-method is-config="true" signature="setUpLogger()[pri:0, instance:com.naveenAutomation.FrameworkDemo.YourStoreTest@10d307f1]" started-at="2023-07-17T19:22:00 EDT" name="setUpLogger" finished-at="2023-07-17T19:22:00 EDT" duration-ms="210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpLogger -->
+        <test-method is-config="true" signature="setUP()[pri:0, instance:com.naveenAutomation.FrameworkDemo.YourStoreTest@10d307f1]" started-at="2023-07-17T19:22:00 EDT" name="setUP" finished-at="2023-07-17T19:22:09 EDT" duration-ms="8977" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUP -->
-        <test-method signature="testfailure()[pri:0, instance:com.naveenAutomation.FrameworkDemo.AccountLoginTest@14555e0a]" started-at="2023-07-17T16:20:59 EDT" name="testfailure" finished-at="2023-07-17T16:20:59 EDT" duration-ms="17" status="FAIL">
+        <test-method signature="ValidateLogin()[pri:0, instance:com.naveenAutomation.FrameworkDemo.YourStoreTest@10d307f1]" started-at="2023-07-17T19:22:09 EDT" name="ValidateLogin" finished-at="2023-07-17T19:22:10 EDT" duration-ms="1587" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateLogin -->
+      </class> <!-- com.naveenAutomation.FrameworkDemo.YourStoreTest -->
+      <class name="com.naveenAutomation.FrameworkDemo.MyAccountTest">
+        <test-method is-config="true" signature="setUpLogger()[pri:0, instance:com.naveenAutomation.FrameworkDemo.MyAccountTest@3e84448c]" started-at="2023-07-17T19:23:06 EDT" name="setUpLogger" finished-at="2023-07-17T19:23:06 EDT" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpLogger -->
+        <test-method is-config="true" signature="setUP()[pri:0, instance:com.naveenAutomation.FrameworkDemo.MyAccountTest@3e84448c]" started-at="2023-07-17T19:23:06 EDT" name="setUP" finished-at="2023-07-17T19:23:14 EDT" duration-ms="7578" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method signature="validateLoginUsingValidCredentials()[pri:0, instance:com.naveenAutomation.FrameworkDemo.MyAccountTest@3e84448c]" started-at="2023-07-17T19:23:14 EDT" name="validateLoginUsingValidCredentials" finished-at="2023-07-17T19:23:18 EDT" duration-ms="3786" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLoginUsingValidCredentials -->
+        <test-method is-config="true" signature="setUP()[pri:0, instance:com.naveenAutomation.FrameworkDemo.MyAccountTest@3e84448c]" started-at="2023-07-17T19:23:18 EDT" name="setUP" finished-at="2023-07-17T19:23:25 EDT" duration-ms="7799" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method retried="true" signature="validateMywishPageTitle()[pri:0, instance:com.naveenAutomation.FrameworkDemo.MyAccountTest@3e84448c]" started-at="2023-07-17T19:23:25 EDT" name="validateMywishPageTitle" finished-at="2023-07-17T19:23:29 EDT" duration-ms="3709" status="SKIP">
           <exception class="java.lang.AssertionError">
             <message>
-              <![CDATA[expected [JudeT] but found [Jude]]]>
+              <![CDATA[expected [My  List] but found [My Wish List]]]>
             </message>
             <full-stacktrace>
-              <![CDATA[java.lang.AssertionError: expected [JudeT] but found [Jude]
+              <![CDATA[java.lang.AssertionError: expected [My  List] but found [My Wish List]
 at org.testng.Assert.fail(Assert.java:99)
 at org.testng.Assert.failNotEquals(Assert.java:1037)
 at org.testng.Assert.assertEqualsImpl(Assert.java:140)
 at org.testng.Assert.assertEquals(Assert.java:122)
 at org.testng.Assert.assertEquals(Assert.java:629)
 at org.testng.Assert.assertEquals(Assert.java:639)
-at com.naveenAutomation.FrameworkDemo.AccountLoginTest.testfailure(AccountLoginTest.java:49)
+at com.naveenAutomation.FrameworkDemo.MyAccountTest.validateMywishPageTitle(MyAccountTest.java:46)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:132)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:599)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:174)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:822)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:147)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:764)
+at org.testng.TestRunner.run(TestRunner.java:585)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
+at org.testng.SuiteRunner.run(SuiteRunner.java:286)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1218)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+at org.testng.TestNG.runSuites(TestNG.java:1069)
+at org.testng.TestNG.run(TestNG.java:1037)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateMywishPageTitle -->
+        <test-method is-config="true" signature="setUP()[pri:0, instance:com.naveenAutomation.FrameworkDemo.MyAccountTest@3e84448c]" started-at="2023-07-17T19:23:29 EDT" name="setUP" finished-at="2023-07-17T19:23:36 EDT" duration-ms="7386" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method signature="validateMywishPageTitle()[pri:0, instance:com.naveenAutomation.FrameworkDemo.MyAccountTest@3e84448c]" started-at="2023-07-17T19:23:36 EDT" name="validateMywishPageTitle" finished-at="2023-07-17T19:23:40 EDT" duration-ms="3919" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [My  List] but found [My Wish List]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [My  List] but found [My Wish List]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+at org.testng.Assert.assertEquals(Assert.java:122)
+at org.testng.Assert.assertEquals(Assert.java:629)
+at org.testng.Assert.assertEquals(Assert.java:639)
+at com.naveenAutomation.FrameworkDemo.MyAccountTest.validateMywishPageTitle(MyAccountTest.java:46)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:132)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:599)
+at org.testng.internal.TestInvoker.retryFailed(TestInvoker.java:214)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:58)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:822)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:147)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:764)
+at org.testng.TestRunner.run(TestRunner.java:585)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
+at org.testng.SuiteRunner.run(SuiteRunner.java:286)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1218)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+at org.testng.TestNG.runSuites(TestNG.java:1069)
+at org.testng.TestNG.run(TestNG.java:1037)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateMywishPageTitle -->
+      </class> <!-- com.naveenAutomation.FrameworkDemo.MyAccountTest -->
+      <class name="com.naveenAutomation.FrameworkDemo.AccountLoginTest">
+        <test-method is-config="true" signature="setUpLogger()[pri:0, instance:com.naveenAutomation.FrameworkDemo.AccountLoginTest@4d5b6aac]" started-at="2023-07-17T19:22:10 EDT" name="setUpLogger" finished-at="2023-07-17T19:22:10 EDT" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpLogger -->
+        <test-method is-config="true" signature="setUP()[pri:0, instance:com.naveenAutomation.FrameworkDemo.AccountLoginTest@4d5b6aac]" started-at="2023-07-17T19:22:10 EDT" name="setUP" finished-at="2023-07-17T19:22:18 EDT" duration-ms="7843" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method retried="true" signature="testfailure()[pri:0, instance:com.naveenAutomation.FrameworkDemo.AccountLoginTest@4d5b6aac]" started-at="2023-07-17T19:22:18 EDT" name="testfailure" finished-at="2023-07-17T19:22:18 EDT" duration-ms="10" status="SKIP">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [JudeTacwel] but found [Jude]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [JudeTacwel] but found [Jude]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+at org.testng.Assert.assertEquals(Assert.java:122)
+at org.testng.Assert.assertEquals(Assert.java:629)
+at org.testng.Assert.assertEquals(Assert.java:639)
+at com.naveenAutomation.FrameworkDemo.AccountLoginTest.testfailure(AccountLoginTest.java:50)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
 at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -63,23 +209,75 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testfailure -->
-        <test-method is-config="true" signature="setUP()[pri:0, instance:com.naveenAutomation.FrameworkDemo.AccountLoginTest@14555e0a]" started-at="2023-07-17T16:20:59 EDT" name="setUP" finished-at="2023-07-17T16:21:05 EDT" duration-ms="6395" status="PASS">
+        <test-method is-config="true" signature="setUP()[pri:0, instance:com.naveenAutomation.FrameworkDemo.AccountLoginTest@4d5b6aac]" started-at="2023-07-17T19:22:18 EDT" name="setUP" finished-at="2023-07-17T19:22:28 EDT" duration-ms="9445" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUP -->
-        <test-method signature="validateLoginUsingInvalidVredentials()[pri:0, instance:com.naveenAutomation.FrameworkDemo.AccountLoginTest@14555e0a]" started-at="2023-07-17T16:21:05 EDT" name="validateLoginUsingInvalidVredentials" finished-at="2023-07-17T16:21:07 EDT" duration-ms="1746" status="PASS">
+        <test-method signature="testfailure()[pri:0, instance:com.naveenAutomation.FrameworkDemo.AccountLoginTest@4d5b6aac]" started-at="2023-07-17T19:22:28 EDT" name="testfailure" finished-at="2023-07-17T19:22:28 EDT" duration-ms="5" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [JudeTacwel] but found [Jude]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [JudeTacwel] but found [Jude]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+at org.testng.Assert.assertEquals(Assert.java:122)
+at org.testng.Assert.assertEquals(Assert.java:629)
+at org.testng.Assert.assertEquals(Assert.java:639)
+at com.naveenAutomation.FrameworkDemo.AccountLoginTest.testfailure(AccountLoginTest.java:50)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:132)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:599)
+at org.testng.internal.TestInvoker.retryFailed(TestInvoker.java:214)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:58)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:822)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:147)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:764)
+at org.testng.TestRunner.run(TestRunner.java:585)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
+at org.testng.SuiteRunner.run(SuiteRunner.java:286)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1218)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+at org.testng.TestNG.runSuites(TestNG.java:1069)
+at org.testng.TestNG.run(TestNG.java:1037)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testfailure -->
+        <test-method is-config="true" signature="setUP()[pri:0, instance:com.naveenAutomation.FrameworkDemo.AccountLoginTest@4d5b6aac]" started-at="2023-07-17T19:22:28 EDT" name="setUP" finished-at="2023-07-17T19:22:40 EDT" duration-ms="12132" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUP -->
+        <test-method signature="validateLoginUsingInvalidVredentials()[pri:0, instance:com.naveenAutomation.FrameworkDemo.AccountLoginTest@4d5b6aac]" started-at="2023-07-17T19:22:40 EDT" name="validateLoginUsingInvalidVredentials" finished-at="2023-07-17T19:22:55 EDT" duration-ms="14444" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateLoginUsingInvalidVredentials -->
-        <test-method is-config="true" signature="setUP()[pri:0, instance:com.naveenAutomation.FrameworkDemo.AccountLoginTest@14555e0a]" started-at="2023-07-17T16:21:07 EDT" name="setUP" finished-at="2023-07-17T16:21:14 EDT" duration-ms="6750" status="PASS">
+        <test-method is-config="true" signature="setUP()[pri:0, instance:com.naveenAutomation.FrameworkDemo.AccountLoginTest@4d5b6aac]" started-at="2023-07-17T19:22:55 EDT" name="setUP" finished-at="2023-07-17T19:23:02 EDT" duration-ms="7498" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUP -->
-        <test-method signature="validateLoginUsingValidCredentials()[pri:0, instance:com.naveenAutomation.FrameworkDemo.AccountLoginTest@14555e0a]" started-at="2023-07-17T16:21:14 EDT" name="validateLoginUsingValidCredentials" finished-at="2023-07-17T16:21:17 EDT" duration-ms="3164" status="PASS">
+        <test-method signature="validateLoginUsingValidCredentials()[pri:0, instance:com.naveenAutomation.FrameworkDemo.AccountLoginTest@4d5b6aac]" started-at="2023-07-17T19:23:02 EDT" name="validateLoginUsingValidCredentials" finished-at="2023-07-17T19:23:06 EDT" duration-ms="3800" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateLoginUsingValidCredentials -->
       </class> <!-- com.naveenAutomation.FrameworkDemo.AccountLoginTest -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
